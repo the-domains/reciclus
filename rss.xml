@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Uma ideia transformadora]]></title>
         <description><![CDATA[Uma ideia transformadora]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/reciclus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 12:15:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 12:16:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reciclus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d4004fb-53c7-43de-be9e-3f54e3aa158b.jpg">]]></description>
-            <link>undefined2e61c359-a79a-415c-95d0-09c7ef991fb1/index.html</link>
+            <link>https://thegrid.ai/reciclus/2e61c359-a79a-415c-95d0-09c7ef991fb1/index.html</link>
             <guid isPermaLink="false">2e61c359-a79a-415c-95d0-09c7ef991fb1</guid>
             <pubDate>Mon, 07 Mar 2016 12:14:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a12a00b3-2d6f-4184-86a7-65cd1ce51d43.jpg">]]></description>
+            <link>https://thegrid.ai/reciclus/3b0c7ea3-e168-4445-aaac-74407adbe7fc/index.html</link>
+            <guid isPermaLink="false">3b0c7ea3-e168-4445-aaac-74407adbe7fc</guid>
+            <pubDate>Mon, 07 Mar 2016 12:14:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
